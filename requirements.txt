@@ -1,5 +1,8 @@
 colorama==0.3.9
-dash==0.2.1
+dash==0.21.0
+dash-renderer==0.11.3
+dash-html-components==0.9.0
+dash-core-components==0.21.0
 decorator==4.0.11
 ezhil==0.90.1
 gunicorn==19.7.1
@@ -11,6 +14,7 @@ jedi==0.10.2
 more-itertools==4.1.0
 Open-Tamil==0.65
 pickleshare==0.7.4
+plotly=2.0.13
 prompt-toolkit==1.0.14
 Pygments==2.2.0
 simplegeneric==0.8.1
